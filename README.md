@@ -13,7 +13,7 @@ SignXScribe is a sign language detection tool that uses computer vision and deep
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rajansharma08/SignXScribe.git
+   git clone https://github.com/Priyankarawat30/SignXScribe.git
    cd SignXScribe
    ```
 
@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries, feel free to contact:
 
-- **Rajan Sharma** - [GitHub](https://github.com/rajansharma08)
+- **Priyanka Rawat** - [GitHub](https://github.com/Priyankarawat30)
 
 ---
 
